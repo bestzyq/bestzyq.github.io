@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.bestzyq.cn/2024/04/07/%E9%80%9A%E8%BF%87CNAME%E5%9F%9F%E5%90%8D%E8%AF%86%E5%88%ABCDN%E5%8E%82%E5%95%86%E7%9A%84%E6%96%B9%E6%B3%95/</loc>
+    <loc>https://www.bestzyq.cn/2024/06/10/%E9%94%85%E7%82%89%E5%8E%9F%E7%90%86/</loc>
     
     <lastmod>2025-03-25</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.bestzyq.cn/2024/06/10/%E9%94%85%E7%82%89%E5%8E%9F%E7%90%86/</loc>
+    <loc>https://www.bestzyq.cn/2024/04/07/%E9%80%9A%E8%BF%87CNAME%E5%9F%9F%E5%90%8D%E8%AF%86%E5%88%ABCDN%E5%8E%82%E5%95%86%E7%9A%84%E6%96%B9%E6%B3%95/</loc>
     
     <lastmod>2025-03-25</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.bestzyq.cn/tags/index.html</loc>
+    <loc>https://www.bestzyq.cn/link/index.html</loc>
     
     <lastmod>2025-03-25</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.bestzyq.cn/link/index.html</loc>
+    <loc>https://www.bestzyq.cn/tags/index.html</loc>
     
     <lastmod>2025-03-25</lastmod>
     
@@ -155,6 +155,15 @@
   </url>
   
   <url>
+    <loc>https://www.bestzyq.cn/2024/04/04/ECUST%E5%AE%BF%E8%88%8D%E7%BD%91%E7%BB%9C%E8%81%9A%E5%90%88%EF%BC%88%E4%B8%8A%EF%BC%89/</loc>
+    
+    <lastmod>2025-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.bestzyq.cn/2024/07/09/Chemkin-1-%E5%AE%89%E8%A3%85/</loc>
     
     <lastmod>2025-03-25</lastmod>
@@ -164,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://www.bestzyq.cn/2024/04/04/ECUST%E5%AE%BF%E8%88%8D%E7%BD%91%E7%BB%9C%E8%81%9A%E5%90%88%EF%BC%88%E4%B8%8A%EF%BC%89/</loc>
+    <loc>https://www.bestzyq.cn/2024/05/06/Gitee-page-502/</loc>
     
     <lastmod>2025-03-25</lastmod>
     
@@ -191,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://www.bestzyq.cn/2024/05/06/Gitee-page-502/</loc>
+    <loc>https://www.bestzyq.cn/2024/07/28/%E4%B8%83%E6%97%A5%E6%9D%80/</loc>
     
     <lastmod>2025-03-25</lastmod>
     
@@ -201,15 +210,6 @@
   
   <url>
     <loc>https://www.bestzyq.cn/2024/11/03/nginx%E4%BC%AA%E9%9D%99%E6%80%81/</loc>
-    
-    <lastmod>2025-03-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.bestzyq.cn/2024/07/28/%E4%B8%83%E6%97%A5%E6%9D%80/</loc>
     
     <lastmod>2025-03-25</lastmod>
     
@@ -227,13 +227,6 @@
 
   
   <url>
-    <loc>https://www.bestzyq.cn/tags/Chemkin/</loc>
-    <lastmod>2025-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.bestzyq.cn/tags/%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2025-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -248,7 +241,7 @@
   </url>
   
   <url>
-    <loc>https://www.bestzyq.cn/tags/hexo/</loc>
+    <loc>https://www.bestzyq.cn/tags/Chemkin/</loc>
     <lastmod>2025-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -269,14 +262,7 @@
   </url>
   
   <url>
-    <loc>https://www.bestzyq.cn/tags/Nginx/</loc>
-    <lastmod>2025-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.bestzyq.cn/tags/Mediawiki/</loc>
+    <loc>https://www.bestzyq.cn/tags/hexo/</loc>
     <lastmod>2025-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -332,7 +318,14 @@
   </url>
   
   <url>
-    <loc>https://www.bestzyq.cn/tags/%E5%85%AC%E5%91%8A/</loc>
+    <loc>https://www.bestzyq.cn/tags/Nginx/</loc>
+    <lastmod>2025-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bestzyq.cn/tags/Mediawiki/</loc>
     <lastmod>2025-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -340,6 +333,13 @@
   
   <url>
     <loc>https://www.bestzyq.cn/tags/VPN/</loc>
+    <lastmod>2025-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bestzyq.cn/tags/%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2025-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -376,14 +376,14 @@
 
   
   <url>
-    <loc>https://www.bestzyq.cn/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://www.bestzyq.cn/categories/%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2025-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.bestzyq.cn/categories/%E7%BD%91%E7%BB%9C/</loc>
+    <loc>https://www.bestzyq.cn/categories/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2025-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
